@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env*.local
+blockchain/artifacts/
+blockchain/cache/
+blockchain/typechain-types/
+coverage/
+*.log
+.DS_Store
